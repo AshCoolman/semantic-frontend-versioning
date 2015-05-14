@@ -17,4 +17,6 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 Additional labels for pre-release and build metadata could mirror Semver when appropriate
 
+## References
 
+* [Semantic versioning](http://semver.org/)
