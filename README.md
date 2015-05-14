@@ -11,9 +11,9 @@ To exist along side Semver if it is used
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
-* MAJOR version when you add a feature(s) for a new problem domain (e.g. new site page)
+* MAJOR version when you add a new problem domain solution (e.g. new site page)
 * MINOR version when you add a feature an existing problem domain (e.g. add control to admin page, )
-* PATCH version when you make bug fixes, style or text changes (e.g. change css rules)
+* PATCH version when you make feature tweaks, bug fixes, style or text changes (e.g. change css rules)
 
 Additional labels for pre-release and build metadata could mirror Semver when appropriate
 
