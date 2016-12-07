@@ -1,11 +1,13 @@
 # Semantic frontend versioning
 
-This project is to see what a semver-like versioning system for front-end projects would look like
 
 ## Aim
 
-To describe the amount of difference/complexity between different versions
-To exist along side Semver if it is used
+Frontend can have zero-dependents. This project proposes a semver-like versioning system for frontend projects
+
+Specific aims:
+- describe the amount of difference/complexity between different versions
+- exist along side Semver if it is used
 
 ## Rules
 
@@ -20,3 +22,5 @@ Additional labels for pre-release and build metadata could mirror Semver when ap
 ## References
 
 * [Semantic versioning](http://semver.org/)
+* [VIDEO Semver in a nutshell](https://www.youtube.com/watch?v=aK0-SrdHriw#t=20m22s)
+* [VIDEO Why is npm so good](https://www.youtube.com/watch?v=aK0-SrdHriw#t=23m08s)
